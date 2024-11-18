@@ -1,0 +1,14 @@
+.btn {
+  width: 100px;
+  padding: 10px;
+
+}
+.menu {
+  display: flex;
+  gap: 15px;
+  place-items: center;
+}
+.welc {
+  font-size: 20px;
+  font-weight: 500;
+}

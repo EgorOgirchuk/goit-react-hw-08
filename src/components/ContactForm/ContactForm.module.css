@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-width: 300px;
+  place-items: end;
+}
+.btn {
+  width: 120px;
+  padding: 10px;
+
+  margin-bottom: 20px;
+}
+.label {
+  display: flex;
+  gap: 10px;
+  font-weight: 500;
+}
+.input {
+  width: 200px;
+
+  font-weight: 500;
+  outline: none;
+
+}
